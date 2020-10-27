@@ -1,0 +1,8 @@
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+0
+[dataset] read ./datasets/COVID19/traininfo0.csv
+[dataset] COVID19 classification set=train number of classes=3  number of images=328
+[dataset] read ./datasets/COVID19/testinfo0.csv
+[dataset] COVID19 classification set=val number of classes=3  number of images=215
+Epoch 0/99
+----------

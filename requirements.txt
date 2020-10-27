@@ -1,0 +1,5 @@
+torch==1.4.1
+torchvision==0.5.0
+skllearn
+pandas==1.0.3
+numpy==1.18.1
